@@ -42,8 +42,12 @@ Built for users who want a clean, menu-driven experience without relying on a PC
 
    ```bash
    pkg install git -y
-   git clone https://github.com/YOUR_USERNAME/termux-fastboot-tool.git
-   cd termux-fastboot-tool
+   ```
+   ```bash
+   git clone https://github.com/VoidKernel12/Gsi-room-flashing-tool-.git
+   ```
+   ```
+   cd Gsi-room-flashing-tool-
    ```
 
 2. Run the installer:
