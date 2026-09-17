@@ -69,11 +69,13 @@ Built for users who want a clean, menu-driven experience without relying on a PC
 
 Because Termux runs as a normal app, you must explicitly grant USB access:
 
-```bash
-# List connected USB devices
-termux-usb -l
 
+# List connected USB devices
+```bash
+termux-usb -l
+```
 # Request permission for a specific device (replace with actual path)
+```bash
 termux-usb -r /dev/bus/usb/00X/00Y
 ```
 
