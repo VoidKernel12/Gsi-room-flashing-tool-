@@ -78,7 +78,9 @@ termux-usb -l
 ```bash
 termux-usb -r /dev/bus/usb/00X/00Y
 ```
-
+```bash
+termux-usb -r PUT_YOUR_FOUND_PATH_HERE
+```
 After granting permission, the device should appear when you run `fastboot devices` from within the tool.
 
 ---
